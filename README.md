@@ -23,6 +23,7 @@ Tập lệnh shell này được thiết kế để tự động cài đặt Fox
 2. Run the installer script:
 
     ```sh
+    chmod +x root.sh
     ./root.sh
     ```
     or
